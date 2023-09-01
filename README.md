@@ -15,10 +15,9 @@ Machine learning pipeline:
 Dataset memory usage: 301.4+ MB
 
 ## Result
-Colons can be used to align columns.
 
 | Metrics        | Linear         | Polynomial  |ElasticNet  |Neural network |
-|:-------------:|:-------------:|:-------------:|:-------------:|
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | MSE|6.367|5.883|5.929|3.679|
 | RMSE|2.523|2.425|2.435|1.91|
 | R2 score|0.926|0.932|0.931|0.957|
