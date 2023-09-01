@@ -19,8 +19,8 @@ Colons can be used to align columns.
 
 | Regression Model        | MSE           | RMSE  |R2 score  |
 |:-------------:|:-------------:|:-------------:|:-------------:|
-| Dataset access      | Google Drive |Google Drive |Google Drive |
-| Classes      | 2 (nonFire,Fire)|Google Drive |Google Drive |
-| Batch Size | 64      |Google Drive |Google Drive |
-| No. of Epochs | 50      |Google Drive |Google Drive |
+| Linear      |6.367|2.523|0.926|
+| Polynomial      |5.883|2.425|0.932|
+| ElasticNet |5.929|2.435|0.931|
+| Neural network |3.679|1.918|0.957|
 
