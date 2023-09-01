@@ -17,8 +17,10 @@ Dataset memory usage: 301.4+ MB
 ## Result
 Colons can be used to align columns.
 
-| Regression Model        | MSE           | RMSE  |$R^2$ score  |
-| :-------------: |:-------------:|:-----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Regression Model        | MSE           | RMSE  |R2 score  |
+|:-------------:|:-------------:|:-------------:|:-------------:|
+| Dataset access      | Google Drive |Google Drive |Google Drive |
+| Classes      | 2 (nonFire,Fire)|Google Drive |Google Drive |
+| Batch Size | 64      |Google Drive |Google Drive |
+| No. of Epochs | 50      |Google Drive |Google Drive |
+
