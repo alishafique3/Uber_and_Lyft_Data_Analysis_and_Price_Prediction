@@ -11,3 +11,7 @@ Machine learning pipeline:
 2. Data preparation using one hot encodding and split. 
 3. Training of the models that include Linear, Polynomial, ElasticNet and Neural network regression.
 4. Evaluation Metric contains mean square error, root mean square error and $R^2$(coefficient of determination) score.
+
+Dataset memory usage: 301.4+ MB
+
+## Result
