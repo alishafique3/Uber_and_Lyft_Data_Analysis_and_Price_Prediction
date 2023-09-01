@@ -17,10 +17,9 @@ Dataset memory usage: 301.4+ MB
 ## Result
 Colons can be used to align columns.
 
-| Regression Model        | MSE           | RMSE  |R2 score  |
+| Metrics        | Linear         | Polynomial  |ElasticNet  |Neural network |
 |:-------------:|:-------------:|:-------------:|:-------------:|
-| Linear      |6.367|2.523|0.926|
-| Polynomial      |5.883|2.425|0.932|
-| ElasticNet |5.929|2.435|0.931|
-| Neural network |3.679|1.918|0.957|
+| MSE      |6.367|5.883|5.929|3.679|
+| RMSE      |2.523|2.425|2.435|1.91|
+| R2 score |0.926|0.932|0.931|0.957|
 
