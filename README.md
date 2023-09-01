@@ -1,4 +1,5 @@
 # Uber_and_Lyft_Data_Analysis_and_Price_Prediction
+## Problem Statement
 In this project, the goal is to develop the inference model to predict the price of Uber and Lyft rides in Boston MA.
 The dataset consists of almost 0.7 million examples with missing values.
 
@@ -6,7 +7,7 @@ The dataset consists of almost 0.7 million examples with missing values.
 2. Target variable: price
 3. Features are related to distance, date, location, temperature, climate, and sunset.
 
-Machine learning pipeline:
+## Machine learning pipeline:
 1. Dataset importing, handling of missing values, observing correlation map, and visualizing different attributes.
 2. Data preparation using one-hot encoding and split. 
 3. Training of the models that include Linear, Polynomial, ElasticNet, and Neural network regression.
