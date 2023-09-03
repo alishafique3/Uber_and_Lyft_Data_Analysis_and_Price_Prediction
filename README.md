@@ -1,11 +1,11 @@
 # Uber_and_Lyft_Data_Analysis_and_Price_Prediction
 ## Problem Statement
-In this project, the goal is to develop the inference model to predict the price of Uber and Lyft rides in Boston MA.
+In this project, the goal is to develop a regression model to predict the price of Uber and Lyft rides in Boston MA.
 The dataset consists of almost 0.7 million examples with missing values.
 
-1. Problem type: supervised (regression)
-2. Target variable: price
-3. Features are related to distance, date, location, temperature, climate, and sunset.
+1. Features are related to distance, date, location, temperature, climate, and sunset.
+2. Target variable: price (continuous numerical dtype)
+3. Problem type: supervised (regression)
 
 ## Machine learning pipeline:
 1. Dataset importing, handling of missing values, observing correlation map, and visualizing different attributes.
