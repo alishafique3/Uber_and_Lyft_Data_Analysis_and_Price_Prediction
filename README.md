@@ -1,4 +1,4 @@
-# Uber_and_Lyft_Data_Analysis_and_Price_Prediction
+# Uber and Lyft Data Analysis and Price Prediction
 ## Problem Statement
 In this project, the goal is to develop a regression model to predict the price of Uber and Lyft rides in Boston MA.
 The dataset consists of almost 0.7 million examples with missing values with the following details:
