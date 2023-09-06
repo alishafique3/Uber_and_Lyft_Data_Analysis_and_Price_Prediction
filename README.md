@@ -1,17 +1,17 @@
 # Uber_and_Lyft_Data_Analysis_and_Price_Prediction
 ## Problem Statement
 In this project, the goal is to develop a regression model to predict the price of Uber and Lyft rides in Boston MA.
-The dataset consists of almost 0.7 million examples with missing values.
+The dataset consists of almost 0.7 million examples with missing values with the following details:
 
 1. Features are related to distance, date, location, temperature, climate, and sunset.
 2. Target variable: price (continuous numerical dtype)
 3. Problem type: supervised (regression)
 
 ## Machine learning pipeline:
-1. Dataset importing, handling of missing values, observing correlation map, and visualizing different attributes.
-2. Data preparation using one-hot encoding and split. 
-3. Training of the models that include Linear, Polynomial, ElasticNet, and Neural network regression.
-4. Evaluation Metric contains a mean square error, root mean square error, and $R^2$(coefficient of determination) score.
+1. Import the dataset, handle the missing values, observe the correlation map, and visualize the different attributes.
+2. Prepare the dataset using one-hot encoding and split the dataset. 
+3. Train the models that include Linear, Polynomial, ElasticNet, and Neural network regression.
+4. Evaluation Metric contains a mean square error (MSE), root mean square error (RMSE), and $R^2$(coefficient of determination) score.
 
 Dataset memory usage: 301.4+ MB
 
